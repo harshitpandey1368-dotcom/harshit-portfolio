@@ -1,7 +1,7 @@
 // Typing Animation
 
 const text =
-"Computer Science Student | Aspiring Software Developer | DSA & Web Development Enthusiast";
+"Hi, I am Harshit | Computer Science Student | Aspiring Software Developer | DSA & Web Development Enthusiast";
 
 let index = 0;
 
